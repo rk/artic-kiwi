@@ -1,9 +1,10 @@
 = Artic Kiwi
 
-Artic Kiwi is a really cool issue tracker written in Ruby for the sole purpose of having fun.  Maybe later
-I'll add important features, like collision-detection to guids and commands, and more interesting usage.  Developed mostly for internal/small-team use.
+Artic Kiwi is a really cool issue tracker written in Ruby for the sole purpose of having fun.  Maybe later I'll add important features, like collision-detection to guids and commands, and more interesting usage. Developed mostly for internal/small-team use.
 
 Run `kiwi` for help.
+
+The issues can be tracked by allowing your source control to track the `.kiwi` folder of your project.
 
 == Copyright
 
