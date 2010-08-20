@@ -4,9 +4,9 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "artic-kiwi"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.name = "Artic Kiwi"
+    gem.summary = %Q{Really cool, CLI-based, simple issue tracking.}
+    gem.description = %Q{An issue tracker written for fun.  File collisions may result in humorous execution.}
     gem.email = "robert@voiceplex.net"
     gem.homepage = "http://github.com/rk/artic-kiwi"
     gem.authors = ["Robert Kosek"]

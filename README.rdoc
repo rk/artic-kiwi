@@ -1,16 +1,9 @@
-= artic-kiwi
+= Artic Kiwi
 
-Description goes here.
+Artic Kiwi is a really cool issue tracker written in Ruby for the sole purpose of having fun.  Maybe later
+I'll add important features, like collision-detection to guids and commands, and more interesting usage.  Developed mostly for internal/small-team use.
 
-== Note on Patches/Pull Requests
- 
-* Fork the project.
-* Make your feature addition or bug fix.
-* Add tests for it. This is important so I don't break it in a
-  future version unintentionally.
-* Commit, do not mess with rakefile, version, or history.
-  (if you want to have your own version, that is fine but bump version in a commit by itself I can ignore when I pull)
-* Send me a pull request. Bonus points for topic branches.
+Run `kiwi` for help.
 
 == Copyright
 
