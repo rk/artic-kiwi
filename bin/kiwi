@@ -21,7 +21,7 @@ else
   action = ARGV.shift
   etc    = ARGV.dup
   if etc.size > 0
-    Kiwi.send(action, etc)
+    Kiwi.send(action, *etc)
   else
     Kiwi.send(action)
   end
