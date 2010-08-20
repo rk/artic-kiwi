@@ -1,6 +1,6 @@
 #! /usr/bin/ruby
 
-require '../lib/artic-kiwi.rb'
+require File.dirname(__FILE__)+'/../lib/artic-kiwi.rb'
 
 if ARGV.size == 0
   puts "Artic-Kiwi #{Kiwi.version} - Simple Issue Tracker"
