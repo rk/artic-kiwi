@@ -1,21 +1,2 @@
-## MAC OS
-.DS_Store
-
-## TEXTMATE
-*.tmproj
-tmtags
-
-## EMACS
-*~
-\#*
-.\#*
-
-## VIM
-*.swp
-
-## PROJECT::GENERAL
-coverage
-rdoc
+artic-kiwi.gemspec
 pkg
-
-## PROJECT::SPECIFIC
